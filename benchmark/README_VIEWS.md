@@ -1,4 +1,4 @@
-# render_views.py 使用说明与实现原理（中文）
+# render_views.py 使用说明与实现原理
 
 本文件记录 `benchmark/render_views.py` 的实现原理、运行步骤、参数说明与故障排查，目标是从仓库中的 STEP CAD 模型生成六个标准视图：`front/back/left/right/top/bottom`。
 
@@ -65,5 +65,3 @@ python .\benchmark\render_views.py --batch --batch-root .\benchmark\resources --
 - 使用 Blender 的 Python API 做离线渲染以获得更好的光照/材质控制。
 - 使用 `trimesh` + `pyrender` + OSMesa 做真正的离屏渲染（更接近真实效果，且可在无 GUI 的服务器上运行）。
 
-## 联系与调试
-- 如果遇到具体 STEP 文件转换失败，请把该 STEP 上传或让我知道文件名，我可以在 FreeCAD 中进一步排查。
