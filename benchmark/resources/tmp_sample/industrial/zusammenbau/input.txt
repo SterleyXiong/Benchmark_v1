@@ -1,0 +1,5 @@
+How many holes does the object have?
+How far apart are the two legs visible from the front?
+What is the radius of the inner cylinder on the right?
+What diameter have the holes on the bottom?
+How many holes are visible on the bottom?

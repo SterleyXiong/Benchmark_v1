@@ -1,0 +1,9 @@
+What are the heights of the standoffs with a hole in the center?
+How large are the uniquely different diameters of the holes that are visible from above and whose position is above the shape center in the z-direction?
+How many standoffs are visible from the bottom?
+What is the radius of the tru-hole visible from the bottom?
+How many holes are visible from the right?
+What are the unique radii of the holes visible from the bottom?
+What is the center of the head gasket shown from the right?
+What is the size of all cooling fins visible from the front?
+How many holes with a radius between 4 and 6 millimeters are visible from the right?

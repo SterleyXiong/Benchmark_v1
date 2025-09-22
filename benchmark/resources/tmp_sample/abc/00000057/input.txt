@@ -1,0 +1,7 @@
+What are the overall dimensions (width, depth and height) of the CAD object?
+What is the diameter of the individual holes on the top of the object?
+What is the maximal distance between the centers of two holes on the top surface?
+What is the thickness of the material used in the CAD object?
+What is the minimal distance from the edge of the object to one of the holes on the top surface?
+What is the radius of the bevel?
+What is the maximal distance between two holes along the width of the object?

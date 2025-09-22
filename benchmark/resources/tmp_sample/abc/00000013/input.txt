@@ -1,0 +1,5 @@
+How many holes does the object have?
+What different diameters do the holes have? 
+What is the diameter of the largest hole on the front?
+What is the depth of the hole with the smallest diameter on the right?
+How many holes are visible from the right side of the object?

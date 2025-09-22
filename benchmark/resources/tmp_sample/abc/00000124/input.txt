@@ -1,0 +1,5 @@
+how many holes are visible from the left?
+There are holes with two different radii in the shape visible from the left. What radius have the holes with the smallest radius?
+What are the center positions of the holes with a radius between of 6.2 mm and 6.3 mm?
+What is the center of the cone?
+What is the size of the ring around the cone visible from the left?

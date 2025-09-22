@@ -1,0 +1,6 @@
+How wide is the object?
+What is the total height of the object?
+How many holes are present around the object excluding the bottom and top?
+what is the depth of the thru-hole visible on the left?
+what is the radius of the through-hole visible on the right?
+What is the minimal distance between the centers of two adjacent holes?

@@ -1,0 +1,5 @@
+hexagonal screws - top
+hexagonal screw heads - right
+hole - top
+rectangular part - right
+rectanuglar indentation - left

@@ -1,0 +1,4 @@
+gear
+hole
+rectangular slot
+cutout

@@ -1,0 +1,4 @@
+How many holes has the object?
+What is the location of the largest hole?
+What are the different radii of the holes?
+How deep are the holes with a diameter of 5.5 mm?

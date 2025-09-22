@@ -1,0 +1,7 @@
+# Minimal requirements for rendering (choose one backend)
+pythonocc-core==7.6.2
+trimesh==3.23.0
+pyglet
+numpy
+scipy
+pillow

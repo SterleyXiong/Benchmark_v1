@@ -1,0 +1,6 @@
+What is the diameter of the shaft?
+What is the radius of the holes?
+How deep are the holes on the top?
+How many holes are present on the top?
+How high is the object without the height of the shaft?
+What is the radius of the adapter plate?

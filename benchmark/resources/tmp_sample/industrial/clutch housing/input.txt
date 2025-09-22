@@ -1,0 +1,4 @@
+How many holes does the object have?
+What is the radius of the biggest hole visible from the top?
+What is the size of the object?
+What different radii do the holes have?

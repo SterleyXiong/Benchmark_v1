@@ -1,0 +1,6 @@
+How many mounting holes are visible from the back?
+What is the depth of the mounting holes visible from the back?
+What is the radius of the semicircles?
+How many semicircles are present?
+What is the diameter of the holes visible from the bottom and top side?
+What is the size of the rectangular inside of the object visible from the back?

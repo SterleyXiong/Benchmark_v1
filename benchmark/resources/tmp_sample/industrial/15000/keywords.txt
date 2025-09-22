@@ -1,0 +1,6 @@
+J - hole - bottom
+J - fin - front
+J - head gasket - right
+J - holes - TOP
+J - thru-hole - BOTTOM
+J - strew hole - RIGHT

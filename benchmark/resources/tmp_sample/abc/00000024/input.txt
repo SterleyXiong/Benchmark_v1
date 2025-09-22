@@ -1,0 +1,4 @@
+What are the center coordinates of all holes visible from the top?
+How deep are the holes?
+How many holes are present on the cad object?
+What is the width and height of the object?

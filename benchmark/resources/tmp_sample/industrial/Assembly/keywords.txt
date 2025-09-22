@@ -1,0 +1,5 @@
+J - hole - bottom
+J - circular part - bottom
+J - hole with ring - top
+J - rectangular protrusions
+J - octagonal base

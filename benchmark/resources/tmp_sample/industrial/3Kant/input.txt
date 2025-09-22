@@ -1,0 +1,6 @@
+What is the center of the nut hole?
+What is the diameter of the holes visible from the top?
+How deep is the tube visible from the bottom?
+How wide are the holes with a ring visible from the bottom?
+How many holes does the object have?
+How wide is the slot on the back?

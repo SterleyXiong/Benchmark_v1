@@ -1,0 +1,5 @@
+What is the outer diameter of the circular base?
+How many radial slots are cut into the top surface of the object?
+What is the inner diameter of the threaded hole centered in x and y direction?
+What are the different radii of the holes located on the top of the object?
+What is the total height of the object?

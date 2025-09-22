@@ -1,0 +1,10 @@
+How many hexagonal screws are visible from the top?
+What is the position of the hole visible from the top with a diameter of 0.004 m?
+What are the center positions of the grids in the object visible from the front and back?
+What radius have the holes visible from the back?
+How many screws are required to assemble the object?
+What are the extents of the rectangular part visible from the right?
+What is the center of the rectangular indentation at the shaft visible from the left?
+What is the width and height of the rectangular indentation visible from the left?
+How many hexagonal screw heads are visible from the right?
+How wide is the rod?

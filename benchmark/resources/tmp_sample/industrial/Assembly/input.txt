@@ -1,0 +1,10 @@
+How many blind holes are visible from the bottom?
+How many holes visible from the bottom have a radius of 1.5 to 1.7 mm?
+What are the positions of the holes visible from the bottom?
+What is the radius of the circular protrusion visible at the bottom?
+How many holes with a bevel are there in the top of the shape?
+What is the height of the rectangular protrusions?
+What are the different radii the holes in the object have?
+What is the size of the octagonal base plate?
+How wide is the entire object?
+What is the radius of the biggest hole?

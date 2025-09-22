@@ -1,0 +1,6 @@
+How wide is the gear visible from the top?
+What is the diameter of the through hole shown from the top?
+How many holes does the object have?
+How high is the object?
+What is the size of the rectangular slot visible from the bottom?
+How many cutouts are in the bottom side?
